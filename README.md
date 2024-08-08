@@ -30,7 +30,9 @@
     <th><img alt="Hyper Text Marking Language" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20" height="20"/></th>
     <th><img alt="Cascading Style Sheet" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20" height="20"/></th>
     <th><img alt="TailwindCSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="20" height="20"/></th>
-    <th><img alt="PosgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20"/></th>
+    <th><img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20"/></th>
+    <th><img alt="Java" src="https://upload.wikimedia.org/wikipedia/vi/3/30/Java_programming_language_logo.svg" width="20" height="20"/></th>
+    <th><img alt="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="20" height="20"/></th>
   </tr>
   <tr align="center">
     <td>😎</td>
@@ -45,5 +47,7 @@
     <td>😢</td>
     <td>🥰</td>
     <td>🫠</td>
+    <td>😟</td>
+    <td>🙄</td>
   </tr>
 </table>
