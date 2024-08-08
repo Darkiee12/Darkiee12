@@ -6,6 +6,7 @@
 # Darkness
 ![Static Badge](https://img.shields.io/badge/%F0%9F%90%A6-Darkness-ffd600)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%8E%93-Computer_Science-ffd600)
+![Static Badge](https://img.shields.io/badge/🏫-4th-ffd600)
 
 # About me
 - 📕 Borned to be happy, forced to read documentations
